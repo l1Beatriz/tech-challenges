@@ -1,3 +1,5 @@
+# DOC: https://docs.python.org/3/library/xml.etree.elementtree.html
+
 import xml.etree.ElementTree as ET
 
 # 1. Abrir o arquivo XML original 
